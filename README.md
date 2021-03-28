@@ -5,14 +5,14 @@
 - 🔭 I’m currently working on [MCPunishments](https://github.com/MCPunishments)
 - 🌱 I’m currently learning **Vue & Typescript**
 - 👯 I’m looking to collaborate on [Wave Survival](https://github.com/WaveSurvival)
-- 🤝 I’m looking for help with [GalaxyMC](https://github.com/GalaxyMCUK)
+- 🤝 I’m looking for help with [Project Blue Blitz](https://github.com/ProjectBlueBlitz)
 - 💻 All of my projects are available on GitHub or at [https://xboxfly15.dev/](https://xboxfly15.dev/)
 - 💬 Ask me about **NodeJS, sysadmin, minecraft or general coding**
 
 ### 🧰 Things I use to code or have experience with
 
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -25,11 +25,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yii/yii-plain-wordmark.svg" alt="yii" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zend/zend-plain-wordmark.svg" alt="zend" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/>
   <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="expressjs" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/hapijs/hapijs-icon.svg" alt="hapijs" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pm2io/pm2io-icon.svg" alt="pm2" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>                                                          
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
@@ -38,19 +42,24 @@
   <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" alt="phpmyadmin" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/auth0/auth0-icon.svg" alt="auth0" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="centos" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/freebsd/freebsd-icon.svg" alt="centos" width="40" height="40"/>
-  <img src="https://simpleicons.org/icons/apple.svg" alt="macos" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="macos" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows10" width="40" height="40"/>
   <img src="https://simpleicons.org/icons/plesk.svg" alt="plesk" width="40" height="40"/>
-  <img src="https://simpleicons.org/icons/adobexd.svg" alt="adobexd" width="40" height="40"/>
-  <img src="https://simpleicons.org/icons/sublimetext.svg" alt="sublimetext" width="40" height="40"/>
+  <img src="https://www.virtualmin.com/images/logos/virtualmin-logo.svg" alt="virtualmin" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/adobe-xd.svg" alt="adobexd" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/sublimetext-icon.svg" alt="sublimetext" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="digitalocean" width="40" height="40"/>
-  <img src="https://simpleicons.org/icons/ovh.svg" alt="ovh" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/ovhcloud.svg" alt="ovhcloud" width="120" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="cloudflare" width="40" height="40"/>
 </p>
 
