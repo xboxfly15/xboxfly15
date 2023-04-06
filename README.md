@@ -70,8 +70,10 @@
 <a href="https://mailhide.io/e/LtVWKhnO"><img src="https://img.shields.io/badge/Reveal%20email%20-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/xboxfly15"><img src="https://img.shields.io/badge/xboxfly15%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/xboxfly15%233907%20-%237289DA.svg?&style=for-the-badge&logo=Discord&logoColor=white"/>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xboxfly15&layout=compact&hide=html&count_private=true" alt="xboxfly15" />&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=xboxfly15&show_icons=true&count_private=true" alt="xboxfly15" /></p>
-<img src="https://komarev.com/ghpvc/?username=xboxfly15" alt="xboxfly15"/>
+
+![](https://raw.githubusercontent.com/xboxfly15/xboxfly15/master/generated/overview.svg)&nbsp;
+![](https://raw.githubusercontent.com/xboxfly15/xboxfly15/master/generated/languages.svg)
+<p><img src="https://komarev.com/ghpvc/?username=xboxfly15" alt="xboxfly15"/></p>
 
 <!--START_SECTION:waka-->
 
