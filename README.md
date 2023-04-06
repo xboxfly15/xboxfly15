@@ -1,13 +1,13 @@
-![👋 Hey there! I'm xboxfly15](https://github.com/xboxfly15/xboxfly15/raw/master/github_banner.gif)
+![👋 Hey there! I'm xboxfly15](https://capsule-render.vercel.app/api?text=%F0%9F%91%8B%20Hey%20There!%20I%27m%20xboxfly15%EF%B8%8F&animation=fadeIn&type=waving&color=gradient&height=100&fontSize=60)
 
-### I'm a student, currently pursuing a degree in network engineering living near Birmingham, England <img src="https://image.flaticon.com/icons/svg/555/555527.svg" width="16"/>. I'm a open-source and privacy advocate and have been a full-stack developer for 6 years, feel free to contact me
+### I'm a network engineering student, living near Birmingham, England <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/320px-Flag_of_England.svg.png" width="16"/>. I'm a open-source and privacy advocate and have been a full-stack developer for 9 years, feel free to contact me
 
-- 🔭 I’m currently working on [MCPunishments](https://github.com/MCPunishments)
-- 🌱 I’m currently learning **Vue & Typescript**
+- 🔭 I’m currently working on [Project BlueBlitz](https://github.com/ProjectBlueBlitz)
+- 🌱 I’m currently learning **SvelteKit & Tailwind CSS**
 - 👯 I’m looking to collaborate on [Wave Survival](https://github.com/WaveSurvival)
-- 🤝 I’m looking for help with [Project Blue Blitz](https://github.com/ProjectBlueBlitz)
-- 💻 All of my projects are available on GitHub or at [https://xboxfly15.dev/](https://xboxfly15.dev/)
-- 💬 Ask me about **NodeJS, sysadmin, minecraft or general coding**
+- 🤝 I’m looking for help with [MCPunishments](https://github.com/MCPunishments)
+- 💻 All of my projects are available on GitHub
+- 💬 Ask me about **NodeJS, sysadmin, cloud, ecommerce or general coding**
 
 ### 🧰 Things I use to code or have experience with
 
@@ -55,20 +55,21 @@
   <img src="https://simpleicons.org/icons/plesk.svg" alt="plesk" width="40" height="40"/>
   <img src="https://www.virtualmin.com/images/logos/virtualmin-logo.svg" alt="virtualmin" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/adobe-xd.svg" alt="adobexd" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/sublimetext-icon.svg" alt="sublimetext" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="digitalocean" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/ovhcloud.svg" alt="ovhcloud" width="120" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="cloudflare" width="40" height="40"/>
+  <img src="https://simpleicons.org/icons/svelte.svg" color="#FF3E00" alt="svelte" width="40" height="40"/>
+  <img src="https://simpleicons.org/icons/proxmox.svg" style="fill:#E57000" alt="proxmox" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/ablyio/ablyio-ar21.svg" alt="ably" width="80" height="40"/>
 </p>
 
 ### 📫 How to reach me
 
-<a href="https://mailhide.io/e/R2xQd"><img src="https://img.shields.io/badge/Reveal%20email%20-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://mailhide.io/e/LtVWKhnO"><img src="https://img.shields.io/badge/Reveal%20email%20-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/xboxfly15"><img src="https://img.shields.io/badge/xboxfly15%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/xboxfly15%231879%20-%237289DA.svg?&style=for-the-badge&logo=Discord&logoColor=white"/>
-<a href="https://steamcommunity.com/id/xboxfly15/"><img src="https://img.shields.io/badge/xboxfly15%20-%23000000.svg?&style=for-the-badge&logo=Steam&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/xboxfly15%233907%20-%237289DA.svg?&style=for-the-badge&logo=Discord&logoColor=white"/>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xboxfly15&layout=compact&hide=html&count_private=true" alt="xboxfly15" />&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=xboxfly15&show_icons=true&count_private=true" alt="xboxfly15" /></p>
 <img src="https://komarev.com/ghpvc/?username=xboxfly15" alt="xboxfly15"/>
 
