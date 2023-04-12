@@ -76,7 +76,7 @@
 <p><img src="https://komarev.com/ghpvc/?username=xboxfly15" alt="xboxfly15"/></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-987%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-987%20hrs%2026%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-189.5%20thousand%20lines%20of%20code-blue)
 
@@ -157,5 +157,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xboxfly15/xboxfly15/master/assets/bar_graph.png)
 
 
- Last Updated on 12/04/2023 11:08:06 UTC
+ Last Updated on 12/04/2023 12:17:42 UTC
 <!--END_SECTION:waka-->
