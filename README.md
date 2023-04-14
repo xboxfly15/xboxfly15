@@ -82,7 +82,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 6.4 kB Used in GitHub's Storage 
+> 📦 6.3 kB Used in GitHub's Storage 
  > 
 > 🏆 65 Contributions in the Year 2023
  > 
@@ -155,5 +155,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xboxfly15/xboxfly15/master/assets/bar_graph.png)
 
 
- Last Updated on 14/04/2023 11:08:18 UTC
+ Last Updated on 14/04/2023 12:17:26 UTC
 <!--END_SECTION:waka-->
