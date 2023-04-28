@@ -76,13 +76,13 @@
 <p><img src="https://komarev.com/ghpvc/?username=xboxfly15" alt="xboxfly15"/></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C026%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C026%20hrs%2046%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 6.4 kB Used in GitHub's Storage 
+> 📦 6.5 kB Used in GitHub's Storage 
  > 
 > 🏆 68 Contributions in the Year 2023
  > 
@@ -119,22 +119,19 @@ Sunday                   36 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-JavaScript               8 hrs 56 mins       ███████████████░░░░░░░░░░   58.20 % 
-Svelte                   6 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   41.77 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+JavaScript               6 hrs 31 mins       ████████████████░░░░░░░░░   65.83 % 
+Svelte                   3 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   34.15 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 21 mins      █████████████████████████   99.94 % 
-Sublime Text             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+VS Code                  9 hrs 54 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-custom-frontend          8 hrs 12 mins       █████████████░░░░░░░░░░░░   53.39 % 
-backend                  7 hrs 9 mins        ████████████░░░░░░░░░░░░░   46.55 % 
-node_galaxymc-tickets-dis0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+custom-frontend          5 hrs 7 mins        █████████████░░░░░░░░░░░░   51.66 % 
+backend                  4 hrs 47 mins       ████████████░░░░░░░░░░░░░   48.34 % 
 
 💻 Operating System: 
-Windows                  15 hrs 21 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -154,5 +151,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xboxfly15/xboxfly15/master/assets/bar_graph.png)
 
 
- Last Updated on 27/04/2023 23:10:24 UTC
+ Last Updated on 28/04/2023 00:49:31 UTC
 <!--END_SECTION:waka-->
