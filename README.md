@@ -76,7 +76,7 @@
 <p><img src="https://komarev.com/ghpvc/?username=xboxfly15" alt="xboxfly15"/></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C026%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C030%20hrs%2024%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
@@ -119,18 +119,20 @@ Sunday                   36 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-JavaScript               17 mins             █████████████████████████   99.54 % 
-Svelte                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+JavaScript               2 hrs 1 min         ███████████████░░░░░░░░░░   60.16 % 
+Svelte                   1 hr 11 mins        █████████░░░░░░░░░░░░░░░░   35.43 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.00 % 
+VS Code                  3 hrs 22 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-backend                  17 mins             █████████████████████████   98.42 % 
-custom-frontend          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+custom-frontend          1 hr 49 mins        ██████████████░░░░░░░░░░░   54.12 % 
+backend                  1 hr 32 mins        ███████████░░░░░░░░░░░░░░   45.88 % 
 
 💻 Operating System: 
-Windows                  17 mins             █████████████████████████   100.00 % 
+Windows                  3 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -150,5 +152,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xboxfly15/xboxfly15/master/assets/bar_graph.png)
 
 
- Last Updated on 04/05/2023 23:10:03 UTC
+ Last Updated on 05/05/2023 00:44:01 UTC
 <!--END_SECTION:waka-->
