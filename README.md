@@ -118,20 +118,16 @@ Sunday                   230 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Java                     18 mins             █████████████████░░░░░░░░   66.14 % 
-Other                    9 mins              ████████░░░░░░░░░░░░░░░░░   33.86 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Eclipse                  28 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-java_PBB-CommonLib       17 mins             ███████████████░░░░░░░░░░   61.45 % 
-java_PBB-sChat           6 mins              ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
-PBB-CommonLib            2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-TestPlugin13             1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  28 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -151,5 +147,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xboxfly15/xboxfly15/master/assets/bar_graph.png)
 
 
- Last Updated on 21/07/2023 01:39:44 UTC
+ Last Updated on 22/07/2023 01:37:04 UTC
 <!--END_SECTION:waka-->
