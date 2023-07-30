@@ -75,7 +75,7 @@
 <p><img src="https://komarev.com/ghpvc/?username=xboxfly15" alt="xboxfly15"/></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C159%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C160%20hrs%2013%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
 
@@ -118,16 +118,21 @@ Sunday                   226 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               49 mins             ██████████████████████░░░   87.20 % 
+Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Pug                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  57 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+vinted-seller-api        50 mins             ██████████████████████░░░   88.86 % 
+node_pbb-rabbit          6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  57 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -147,5 +152,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xboxfly15/xboxfly15/master/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2023 01:24:12 UTC
+ Last Updated on 30/07/2023 01:33:11 UTC
 <!--END_SECTION:waka-->
