@@ -118,21 +118,16 @@ Sunday                   72 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Java                     1 hr 9 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Sublime Text             39 mins             ██████████████░░░░░░░░░░░   57.10 % 
-Eclipse                  29 mins             ███████████░░░░░░░░░░░░░░   42.90 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          39 mins             ██████████████░░░░░░░░░░░   57.10 % 
-java_PBB-sChat           18 mins             ███████░░░░░░░░░░░░░░░░░░   26.28 % 
-java_PBB-sFun            9 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-java_PBB-sPermissions    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-java_PBB-CommonLib       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 9 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -152,5 +147,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xboxfly15/xboxfly15/master/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2023 01:12:52 UTC
+ Last Updated on 16/08/2023 01:12:41 UTC
 <!--END_SECTION:waka-->
