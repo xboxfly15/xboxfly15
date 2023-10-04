@@ -75,7 +75,7 @@
 <p><img src="https://komarev.com/ghpvc/?username=xboxfly15" alt="xboxfly15"/></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C193%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C196%20hrs%2025%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
@@ -118,20 +118,20 @@ Sunday                   126 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-JavaScript               3 hrs 9 mins        ██████████████░░░░░░░░░░░   57.91 % 
-Svelte                   2 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   41.12 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+JavaScript               5 hrs 31 mins       ████████████████░░░░░░░░░   63.82 % 
+Svelte                   3 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   35.57 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 27 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 39 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-custom-frontend          4 hrs 19 mins       ████████████████████░░░░░   79.35 % 
-node_galaxymc-accounts-ba1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+custom-frontend          7 hrs 20 mins       █████████████████████░░░░   84.79 % 
+node_galaxymc-accounts-ba1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
 
 💻 Operating System: 
-Windows                  5 hrs 27 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -151,5 +151,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xboxfly15/xboxfly15/master/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2023 01:16:54 UTC
+ Last Updated on 04/10/2023 01:17:47 UTC
 <!--END_SECTION:waka-->
