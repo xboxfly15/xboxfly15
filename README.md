@@ -118,19 +118,16 @@ Sunday                   128 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Svelte                   1 hr 32 mins        ███████████████░░░░░░░░░░   61.46 % 
-JavaScript               50 mins             ████████░░░░░░░░░░░░░░░░░   33.51 % 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 30 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-custom-frontend          2 hrs 17 mins       ███████████████████████░░   91.53 % 
-node_galaxymc-accounts-ba12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 30 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -150,5 +147,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xboxfly15/xboxfly15/master/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2023 01:21:15 UTC
+ Last Updated on 16/10/2023 01:17:59 UTC
 <!--END_SECTION:waka-->
