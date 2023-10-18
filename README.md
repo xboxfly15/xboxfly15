@@ -75,7 +75,7 @@
 <p><img src="https://komarev.com/ghpvc/?username=xboxfly15" alt="xboxfly15"/></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C214%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C225%20hrs%2013%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
@@ -118,18 +118,19 @@ Sunday                   128 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Java                     1 hr 19 mins        ████████████████████████░   97.00 % 
-XML                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Java                     11 hrs 50 mins      █████████████████████████   99.66 % 
+XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-Eclipse                  1 hr 21 mins        █████████████████████████   100.00 % 
+Eclipse                  11 hrs 52 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-WaveSurvival             1 hr 15 mins        ███████████████████████░░   91.62 % 
-java_PBB-sChat           6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+WaveSurvival             11 hrs 45 mins      █████████████████████████   99.02 % 
+java_PBB-sChat           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+java_PBB-CommonLib       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  1 hr 21 mins        █████████████████████████   100.00 % 
+Windows                  11 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -149,5 +150,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xboxfly15/xboxfly15/master/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2023 01:16:46 UTC
+ Last Updated on 18/10/2023 01:16:53 UTC
 <!--END_SECTION:waka-->
