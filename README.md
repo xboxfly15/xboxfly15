@@ -75,7 +75,7 @@
 <p><img src="https://komarev.com/ghpvc/?username=xboxfly15" alt="xboxfly15"/></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C241%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C245%20hrs%2032%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
@@ -118,19 +118,19 @@ Sunday                   128 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Java                     28 hrs 8 mins       █████████████████████████   99.85 % 
-XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Java                     31 hrs 59 mins      █████████████████████████   99.38 % 
+XML                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🔥 Editors: 
-Eclipse                  28 hrs 10 mins      █████████████████████████   100.00 % 
+Eclipse                  32 hrs 11 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-WaveSurvival             28 hrs 2 mins       █████████████████████████   99.52 % 
-java_PBB-sChat           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-java_PBB-CommonLib       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+WaveSurvival             32 hrs 1 min        █████████████████████████   99.48 % 
+java_PBB-sChat           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+java_PBB-CommonLib       3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 💻 Operating System: 
-Windows                  28 hrs 10 mins      █████████████████████████   100.00 % 
+Windows                  32 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -150,5 +150,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xboxfly15/xboxfly15/master/assets/bar_graph.png)
 
 
- Last Updated on 20/10/2023 01:16:12 UTC
+ Last Updated on 21/10/2023 01:14:13 UTC
 <!--END_SECTION:waka-->
