@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Project BlueBlitz](https://github.com/ProjectBlueBlitz)
 - 🌱 I’m currently learning **SvelteKit & Tailwind CSS**
-- 👯 I’m looking to collaborate on [Wave Survival](https://github.com/WaveSurvival)
+- 👯 I’m looking to collaborate on [Project BlueBlitz](https://github.com/ProjectBlueBlitz)
 - 🤝 I’m looking for help with [MCPunishments](https://github.com/MCPunishments)
 - 💻 All of my projects are available on GitHub
 - 💬 Ask me about **NodeJS, sysadmin, cloud, ecommerce or general coding**
@@ -144,13 +144,6 @@ Python                   1 repo              █░░░░░░░░░░�
 PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/xboxfly15/xboxfly15/master/assets/bar_graph.png)
-
 
  Last Updated on 05/11/2023 01:21:48 UTC
 <!--END_SECTION:waka-->
