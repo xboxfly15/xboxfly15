@@ -75,15 +75,13 @@
 <p><img src="https://komarev.com/ghpvc/?username=xboxfly15" alt="xboxfly15"/></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C317%20hrs%2037%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 8.1 kB Used in GitHub's Storage 
  > 
-> 🏆 453 Contributions in the Year 2023
+> 🏆 457 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -91,45 +89,6 @@
  > 
 > 🔑 10 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                98 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-🌆 Daytime                208 commits         █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
-🌃 Evening                437 commits         ███████████░░░░░░░░░░░░░░   44.55 % 
-🌙 Night                  238 commits         ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   178 commits         █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-Tuesday                  244 commits         ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
-Wednesday                80 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-Thursday                 105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-Friday                   163 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
-Saturday                 61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-Sunday                   150 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -143,5 +102,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2023 01:21:04 UTC
+ Last Updated on 07/12/2023 01:20:32 UTC
 <!--END_SECTION:waka-->
