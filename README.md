@@ -75,6 +75,8 @@
 <p><img src="https://komarev.com/ghpvc/?username=xboxfly15" alt="xboxfly15"/></p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C541%20hrs%2045%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-479.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -89,6 +91,45 @@
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                122 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+🌆 Daytime                476 commits         ████████░░░░░░░░░░░░░░░░░   30.05 % 
+🌃 Evening                564 commits         █████████░░░░░░░░░░░░░░░░   35.61 % 
+🌙 Night                  422 commits         ███████░░░░░░░░░░░░░░░░░░   26.64 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   262 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+Tuesday                  369 commits         ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+Wednesday                135 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+Thursday                 151 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+Friday                   264 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Saturday                 165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+Sunday                   238 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -102,5 +143,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/06/2024 01:37:57 UTC
+ Last Updated on 17/06/2024 01:28:15 UTC
 <!--END_SECTION:waka-->
