@@ -83,8 +83,6 @@
 
 > 📦 8.5 kB Used in GitHub's Storage 
  > 
-> 🏆 220 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -118,19 +116,16 @@ Sunday                   206 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Svelte                   21 mins             █████████████████░░░░░░░░   68.60 % 
-JavaScript               9 mins              ████████░░░░░░░░░░░░░░░░░   31.40 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-video-checker            22 mins             ██████████████████░░░░░░░   73.91 % 
-video-checker-api        7 mins              ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
-custom-frontend          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -146,5 +141,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2024 01:47:09 UTC
+ Last Updated on 04/10/2024 01:47:14 UTC
 <!--END_SECTION:waka-->
