@@ -75,13 +75,13 @@
 <p><img src="https://komarev.com/ghpvc/?username=xboxfly15" alt="xboxfly15"/></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C592%20hrs%208%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-503.0%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 8.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 230 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -116,19 +116,16 @@ Sunday                   220 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-JavaScript               6 hrs 35 mins       █████████████████░░░░░░░░   69.67 % 
-Svelte                   2 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   30.19 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+JavaScript               3 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 27 mins       █████████████████████████   100.00 % 
+VS Code                  3 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-video-checker-api        6 hrs 35 mins       █████████████████░░░░░░░░   69.66 % 
-video-checker            2 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   30.34 % 
+video-checker-api        3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  9 hrs 27 mins       █████████████████████████   100.00 % 
+Windows                  3 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -144,5 +141,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2024 01:51:56 UTC
+ Last Updated on 01/11/2024 01:56:03 UTC
 <!--END_SECTION:waka-->
