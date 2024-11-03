@@ -75,7 +75,7 @@
 <p><img src="https://komarev.com/ghpvc/?username=xboxfly15" alt="xboxfly15"/></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C592%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C593%20hrs%2040%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-503.0%20thousand%20lines%20of%20code-blue)
 
@@ -118,16 +118,19 @@ Sunday                   220 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-JavaScript               3 mins              █████████████████████████   100.00 % 
+JavaScript               6 hrs 56 mins       █████████████████████████   99.89 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+VS Code                  6 hrs 56 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-video-checker-api        3 mins              █████████████████████████   100.00 % 
+backup-manager-api       6 hrs 51 mins       █████████████████████████   98.79 % 
+video-checker-api        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+node_galaxymc-status-page1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+Windows                  6 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -143,5 +146,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/11/2024 01:46:01 UTC
+ Last Updated on 03/11/2024 01:54:10 UTC
 <!--END_SECTION:waka-->
