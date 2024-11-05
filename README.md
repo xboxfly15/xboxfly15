@@ -75,13 +75,15 @@
 <p><img src="https://komarev.com/ghpvc/?username=xboxfly15" alt="xboxfly15"/></p>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-503.0%20thousand%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C606%20hrs%2056%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-503.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 8.8 kB Used in GitHub's Storage 
  > 
-> 🏆 230 Contributions in the Year 2024
+> 🏆 231 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,6 +91,47 @@
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                124 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+🌆 Daytime                481 commits         ████████░░░░░░░░░░░░░░░░░   30.91 % 
+🌃 Evening                577 commits         █████████░░░░░░░░░░░░░░░░   37.08 % 
+🌙 Night                  374 commits         ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   308 commits         █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+Tuesday                  292 commits         █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+Wednesday                155 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+Thursday                 144 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+Friday                   259 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+Saturday                 178 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+Sunday                   220 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+JavaScript               14 hrs 39 mins      █████████████████████████   99.56 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+
+🔥 Editors: 
+VS Code                  14 hrs 43 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+backup-manager-api       14 hrs 42 mins      █████████████████████████   99.88 % 
+node_galaxymc-status-page1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+
+💻 Operating System: 
+Windows                  14 hrs 43 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -102,5 +145,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/11/2024 01:50:28 UTC
+ Last Updated on 05/11/2024 01:45:58 UTC
 <!--END_SECTION:waka-->
