@@ -75,7 +75,7 @@
 <p><img src="https://komarev.com/ghpvc/?username=xboxfly15" alt="xboxfly15"/></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C613%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C614%20hrs%2010%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-514.2%20thousand%20lines%20of%20code-blue)
 
@@ -118,16 +118,17 @@ Sunday                   231 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     22 mins             ███████████████████████░░   92.40 % 
+Image (svg)              1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  24 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          24 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  24 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -143,5 +144,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/11/2024 01:55:37 UTC
+ Last Updated on 29/11/2024 01:55:11 UTC
 <!--END_SECTION:waka-->
