@@ -118,17 +118,16 @@ Sunday                   132 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Svelte                   28 mins             ███████████████████░░░░░░   76.04 % 
-JavaScript               9 mins              ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  37 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-inventory-management     37 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  37 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -144,5 +143,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/01/2025 01:47:26 UTC
+ Last Updated on 28/01/2025 01:45:17 UTC
 <!--END_SECTION:waka-->
