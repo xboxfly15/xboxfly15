@@ -75,15 +75,13 @@
 <p><img src="https://komarev.com/ghpvc/?username=xboxfly15" alt="xboxfly15"/></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C696%20hrs%2058%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-411.3%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-413.0%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 8.8 kB Used in GitHub's Storage 
  > 
-> 🏆 30 Contributions in the Year 2025
+> 🏆 34 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -91,45 +89,6 @@
  > 
 > 🔑 10 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-🌆 Daytime                344 commits         ████████░░░░░░░░░░░░░░░░░   31.05 % 
-🌃 Evening                439 commits         ██████████░░░░░░░░░░░░░░░   39.62 % 
-🌙 Night                  251 commits         ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   204 commits         █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
-Tuesday                  175 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Wednesday                162 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Thursday                 122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-Friday                   164 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Saturday                 157 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Sunday                   124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -143,5 +102,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/02/2025 01:46:01 UTC
+ Last Updated on 16/02/2025 01:54:42 UTC
 <!--END_SECTION:waka-->
