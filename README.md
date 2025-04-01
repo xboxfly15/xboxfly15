@@ -118,16 +118,16 @@ Sunday                   151 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               38 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  38 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-mcpanel                  38 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  38 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -143,5 +143,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/03/2025 00:37:40 UTC
+ Last Updated on 01/04/2025 00:39:46 UTC
 <!--END_SECTION:waka-->
