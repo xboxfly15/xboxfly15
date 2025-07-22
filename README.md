@@ -75,7 +75,7 @@
 <p><img src="https://komarev.com/ghpvc/?username=xboxfly15" alt="xboxfly15"/></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C954%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C956%20hrs%2011%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-521.9%20thousand%20lines%20of%20code-blue)
 
@@ -118,16 +118,19 @@ Sunday                   176 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     2 hrs 9 mins        █████████████████████████   99.81 % 
+Gradle Kotlin DSL        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Eclipse                  2 hrs 9 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+OriginsPunishments       2 hrs 9 mins        █████████████████████████   99.48 % 
+OriginsEssentials        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+FragaliciousOrigins      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -143,5 +146,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/07/2025 00:42:08 UTC
+ Last Updated on 22/07/2025 00:39:37 UTC
 <!--END_SECTION:waka-->
